@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehadabuawwad&layout=compact&theme=github_dark)](https://github.com/Jehadabuawwad/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jehadabuawwad&theme=github_dark)](https://github.com/Jehadabuawwad/github-readme-stats)
+[![Jehad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jehadabuawwad&theme=github_dark)](https://github.com/Jehadabuawwad/github-readme-stats)
