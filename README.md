@@ -52,6 +52,8 @@ I am seeking to explore more about what I learn and get a chance to Apply common
   <img  style="margin-left:10px; margin-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jehadabuawwad&layout=compact&theme=github_dark" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=Jehadabuawwad&color=red&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
 
 <br/>
@@ -116,3 +118,6 @@ I am seeking to explore more about what I learn and get a chance to Apply common
 <hr>
 
 </div>
+
+![Example](https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg)
+
