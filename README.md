@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <a href="https://jehadabuawwad.netlify.app/" >
-  <img width="450" height="250"  src="https://camo.githubusercontent.com/8d7a01aa4cdd9e50375196ff0c2dd014e0b9e27ccbaad91fccd17ce71b88aa9a/68747470733a2f2f6a6568616461627561777761642e6769746875622e696f2f72656164696e672d6e6f7465732f696d616765732f4c4f474f2e706e67 ">
+  <img width="375" height="200"  src="https://camo.githubusercontent.com/8d7a01aa4cdd9e50375196ff0c2dd014e0b9e27ccbaad91fccd17ce71b88aa9a/68747470733a2f2f6a6568616461627561777761642e6769746875622e696f2f72656164696e672d6e6f7465732f696d616765732f4c4f474f2e706e67 ">
 </a>
 </p>
 
@@ -39,21 +39,19 @@ I am seeking to explore more about what I learn and get a chance to Apply common
 
 🤙 You Can Find Me On
 
-</h1>
-
 <div align="center">
 
-<a style="margin-left:10px;" href="http://facebook.com/jehadabuawwad">![facebook](https://img.shields.io/badge/Facebook-10000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<a style="margin-left:10px;" href="http://facebook.com/jehadabuawwad">![facebook](https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 
-<a style="margin-left:10px;" href="https://web.facebook.com/Jehadabuawwad/">![facebook](https://img.shields.io/badge/LinkedIn-00001?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
+<a style="margin-left:10px;" href="https://www.linkedin.com/in/jehadabuawwad">![linkedin](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
 
 </div>
+</h1>
 
 <h1 align="center">
 
 &#x270d; My GitHub Stats
 
-</h1>
 <div align="center">
 
 <a   href="https://github.com/Jehadabuawwad/Jehadabuawwad">
@@ -77,7 +75,7 @@ I am seeking to explore more about what I learn and get a chance to Apply common
 </h1>
 
 <div align="center">
-
+</h1>
 ### **Systems**
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
