@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h2 align="center">
+<h3 align="center">
 I am Jehad Abu Awwad , a web developer with Mechatronics Engineering Background and I am that one who enjoying and passion-ed in technologies that could some day being a part we use it every day with faith that we as web developers that we build technologies for any one can use and help them in some task in their life, I feel that every point that I read or learn it energize me to catch every detail about it until it become a strong abstracted knowledge that drive me to a solution , missing things in life could be a reason for me to drive myself to reach a point that fill the gap and even it filled i still looking for a new thing to challenge with.
-</h2>
+</h3>
 <br>
 
-<h2 align="center">
+<h3 align="center">
 I am skilled person with American Canadian Board for personal training in the Artificial Inelegance with more the 100 guided training and more than 6 projects in this filed this with the experience that i gain throw learning journey of web development in ASAC Full stack Web development Intensive training with more than 10 projects and MERN stack experience dealing with technologies like React.js , Node.js and Django I can say about myself that I can build interactive Web applications with Intelligence features
-</h2>
+</h3>
 <br>
 
-<h2 align="center">
+<h3 align="center">
 I am seeking to explore more about what I learn and get a chance to Apply common Knowledge between programming Languages and this will lead to success in align my self with the vision of company and adapt in mission that will be given to do as good team player.
-</h2>
+</h3>
 
 <br>
 
