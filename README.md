@@ -70,23 +70,26 @@ I am seeking to explore more about what I learn and get a chance to Apply common
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ### **Languages**
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 
 ### **Frameworks**
 
 ![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-ReactNative-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 
 ### **Tools**
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Poetry-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Poetry-informational?style=flat&logo=poetry&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=2bbc8a)
 
 ### **Platforms**
 
@@ -101,8 +104,9 @@ I am seeking to explore more about what I learn and get a chance to Apply common
 #### JavaScript Libraries
 
 ![](https://img.shields.io/badge/Library-REACT-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-Bootsrap-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-tailwindcss-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 
 #### Python Libraries
 
@@ -120,4 +124,3 @@ I am seeking to explore more about what I learn and get a chance to Apply common
 </div>
 
 ![Example](https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg)
-
