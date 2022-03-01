@@ -1,9 +1,3 @@
-<p align="center">
-<a href="https://jehadabuawwad.netlify.app/" >
-  <img width="375" height="200"  src="https://camo.githubusercontent.com/8d7a01aa4cdd9e50375196ff0c2dd014e0b9e27ccbaad91fccd17ce71b88aa9a/68747470733a2f2f6a6568616461627561777761642e6769746875622e696f2f72656164696e672d6e6f7465732f696d616765732f4c4f474f2e706e67 ">
-</a>
-</p>
-
 <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">
 I am Jehad Abu Awwad , a web developer with Mechatronics Engineering Background and I am that one who enjoying and passion-ed in technologies that could some day being a part we use it every day with faith that we as web developers that we build technologies for any one can use and help them in some task in their life, I feel that every point that I read or learn it energize me to catch every detail about it until it become a strong abstracted knowledge that drive me to a solution , missing things in life could be a reason for me to drive myself to reach a point that fill the gap and even it filled i still looking for a new thing to challenge with.
