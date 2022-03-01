@@ -17,19 +17,6 @@ I am seeking to explore more about what I learn and get a chance to Apply common
 
 <h1 align="center">
 
-🤙 You Can Find Me On
-
-<div align="center">
-
-<a style="margin-left:10px;" href="http://facebook.com/jehadabuawwad">![facebook](https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
-
-<a style="margin-left:10px;" href="https://www.linkedin.com/in/jehadabuawwad">![linkedin](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
-
-</div>
-</h1>
-
-<h1 align="center">
-
 &#x270d; My GitHub Stats
 
 <div align="center">
