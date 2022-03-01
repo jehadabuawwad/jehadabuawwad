@@ -1,6 +1,6 @@
 <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">
-I am Jehad Abu Awwad , a web developer with Mechatronics Engineering Background and I am that one who enjoying and passion-ed in technologies that could some day being a part we use it every day with faith that we as web developers that we build technologies for any one can use and help them in some task in their life, I feel that every point that I read or learn it energize me to catch every detail about it until it become a strong abstracted knowledge that drive me to a solution , missing things in life could be a reason for me to drive myself to reach a point that fill the gap and even it filled i still looking for a new thing to challenge with.
+I am Jad Abu Awwad , a web developer with Mechatronics Engineering Background and I am that one who enjoying and passion-ed in technologies that could some day being a part we use it every day with faith that we as web developers that we build technologies for any one can use and help them in some task in their life, I feel that every point that I read or learn it energize me to catch every detail about it until it become a strong abstracted knowledge that drive me to a solution , missing things in life could be a reason for me to drive myself to reach a point that fill the gap and even it filled i still looking for a new thing to challenge with.
 </h3>
 <br>
 
