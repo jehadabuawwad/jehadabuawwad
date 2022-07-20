@@ -29,8 +29,6 @@ I am seeking to explore more about what I learn and get a chance to Apply common
   <img style="margin-left:10px; margin-top:10px;"  src="https://github-readme-stats.vercel.app/api/wakatime?username=jehadabuawwad&theme=github_dark" />
 </a>
 
-[![Jehad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jehadabuawwad)](Jehad Stats)
-
 
 ![](https://komarev.com/ghpvc/?username=Jehadabuawwad&color=red&style=flat-square&label=PROFILE+VIEWS)
 
